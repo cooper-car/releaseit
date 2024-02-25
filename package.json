@@ -1,0 +1,22 @@
+{
+  "name": "releaseit",
+  "version": "0.0.0",
+  "description": "cooper",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cooper-car/releaseit.git"
+  },
+  "keywords": [
+    "Cooper"
+  ],
+  "author": "Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cooper-car/releaseit/issues"
+  },
+  "homepage": "https://github.com/cooper-car/releaseit#readme"
+}
