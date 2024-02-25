@@ -4,7 +4,8 @@
   "description": "cooper",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/cooper-car/releaseit/issues"
   },
-  "homepage": "https://github.com/cooper-car/releaseit#readme"
+  "homepage": "https://github.com/cooper-car/releaseit#readme",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
 }
