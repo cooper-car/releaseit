@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/cooper-car/releaseit#readme",
   "devDependencies": {
+    "@commitlint/cli": "^18.6.1",
+    "@commitlint/config-conventional": "^18.6.2",
     "husky": "^8.0.0"
   }
 }
